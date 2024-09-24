@@ -1,0 +1,14 @@
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\bin\Debug\net8.0\01.Convertor USD to EUR.exe
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\bin\Debug\net8.0\01.Convertor USD to EUR.deps.json
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\bin\Debug\net8.0\01.Convertor USD to EUR.runtimeconfig.json
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\bin\Debug\net8.0\01.Convertor USD to EUR.dll
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\bin\Debug\net8.0\01.Convertor USD to EUR.pdb
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\01.Convertor USD to EUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\01.Convertor USD to EUR.AssemblyInfoInputs.cache
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\01.Convertor USD to EUR.AssemblyInfo.cs
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\01.Convertor USD to EUR.csproj.CoreCompileInputs.cache
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\01.Convertor USD to EUR.dll
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\refint\01.Convertor USD to EUR.dll
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\01.Convertor USD to EUR.pdb
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\01.Convertor USD to EUR.genruntimeconfig.cache
+C:\Users\Dani\VS Fails\02.Key Concepts\Convertor USD to EUR\obj\Debug\net8.0\ref\01.Convertor USD to EUR.dll
