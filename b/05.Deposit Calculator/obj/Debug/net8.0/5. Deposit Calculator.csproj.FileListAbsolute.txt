@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\bin\Debug\net8.0\5. Deposit Calculator.exe
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\bin\Debug\net8.0\5. Deposit Calculator.deps.json
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\bin\Debug\net8.0\5. Deposit Calculator.runtimeconfig.json
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\bin\Debug\net8.0\5. Deposit Calculator.dll
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\bin\Debug\net8.0\5. Deposit Calculator.pdb
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\5. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\5. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\5. Deposit Calculator.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\5. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\5. Deposit Calculator.dll
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\refint\5. Deposit Calculator.dll
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\5. Deposit Calculator.pdb
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\5. Deposit Calculator.genruntimeconfig.cache
+C:\Users\Dani\source\repos\Key Concepts\5. Deposit Calculator\obj\Debug\net8.0\ref\5. Deposit Calculator.dll
