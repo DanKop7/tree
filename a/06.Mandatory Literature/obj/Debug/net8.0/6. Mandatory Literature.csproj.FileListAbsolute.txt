@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\bin\Debug\net8.0\6. Mandatory Literature.exe
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\bin\Debug\net8.0\6. Mandatory Literature.deps.json
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\bin\Debug\net8.0\6. Mandatory Literature.runtimeconfig.json
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\bin\Debug\net8.0\6. Mandatory Literature.dll
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\bin\Debug\net8.0\6. Mandatory Literature.pdb
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\6. Mandatory Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\6. Mandatory Literature.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\6. Mandatory Literature.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\6. Mandatory Literature.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\6. Mandatory Literature.dll
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\refint\6. Mandatory Literature.dll
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\6. Mandatory Literature.pdb
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\6. Mandatory Literature.genruntimeconfig.cache
+C:\Users\Dani\source\repos\Key Concepts\6. Mandatory Literature\obj\Debug\net8.0\ref\6. Mandatory Literature.dll
