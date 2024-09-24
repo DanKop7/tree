@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\bin\Debug\net8.0\2. Four Operations.exe
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\bin\Debug\net8.0\2. Four Operations.deps.json
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\bin\Debug\net8.0\2. Four Operations.runtimeconfig.json
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\bin\Debug\net8.0\2. Four Operations.dll
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\bin\Debug\net8.0\2. Four Operations.pdb
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\2. Four Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\2. Four Operations.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\2. Four Operations.AssemblyInfo.cs
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\2. Four Operations.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\2. Four Operations.dll
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\refint\2. Four Operations.dll
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\2. Four Operations.pdb
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\2. Four Operations.genruntimeconfig.cache
+C:\Users\Dani\source\repos\Key Concepts\2. Four Operations\obj\Debug\net8.0\ref\2. Four Operations.dll
